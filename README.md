@@ -9,7 +9,7 @@ QA Testing MSI 12VHPWR 600W GPU Cable By RinMP3
 | **Equipment** | `Voltcraft VC 272` | - | Digital Multimeter |
 | **Probe Method** | `Native Voltcraft Probes` | - | Direct Terminal Contact |
 | **Lead Resistance** | `0.1` | `Ohm` | Shorted probe baseline |
-| **Test Subject** | `MSI 12VHPWR Cable` | - | Stock A100G Cable |
+| **Test Subject** | `MSI 12VHPWR Cable` | - | Stock A1000G Cable |
 | **Rated Current** | `50.0` | `A` | Equivalent to 600W Load at +12V |
 
 ### Continuity & Pass/Fail
