@@ -69,11 +69,14 @@ QA Testing MSI 12VHPWR 600W GPU Cable By RinMP3
 
 **Final Assessment:** The tested cable sample fully complies with physical, electrical, and geometric standards for 12V-2x6 / 12VHPWR power delivery up to 600W (50.0A). Rated **SAFE FOR OPERATION** under the condition of full latch engagement.
 
+<details>
+  <summary><b> Photo Gallery</b></summary>
+  <br>
 <img width="2560" height="1920" alt="photo_2_2026-08-23_15-41-56" src="https://github.com/user-attachments/assets/126a3014-9aee-4494-a143-c33595f8551f" />
 <img width="2560" height="1920" alt="photo_5_2026-08-23_15-41-56" src="https://github.com/user-attachments/assets/875d2aa3-1ce0-49a2-99bd-1891fa7fc2ff" />
 <img width="2560" height="1920" alt="photo_3_2026-08-23_15-41-56" src="https://github.com/user-attachments/assets/246e24f7-116c-4968-ad38-61bac1b35b78" />
 <img width="2560" height="1920" alt="photo_4_2026-08-23_15-41-56" src="https://github.com/user-attachments/assets/082faaa3-fae6-4ca1-a72d-5d3a9134f6d5" />
 <img width="2560" height="1920" alt="photo_1_2026-08-23_15-41-56" src="https://github.com/user-attachments/assets/5c3863be-c7e3-469b-8f53-d77bd625f07b" />
 <img width="2560" height="1920" alt="photo_6_2026-08-23_15-41-56" src="https://github.com/user-attachments/assets/a88d3428-9213-4490-a1bb-50250f3f1e9f" />
-
+</details>
 
