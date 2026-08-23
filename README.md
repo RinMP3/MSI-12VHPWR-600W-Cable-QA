@@ -1,7 +1,5 @@
 # MSI 12VHPWR 600W Cable QA
 
-QA Testing MSI 12VHPWR 600W GPU Cable By RinMP3
-
 ### Test Setup & Baseline Calibration
 
 | Parameter | Value | Unit | Notes |
